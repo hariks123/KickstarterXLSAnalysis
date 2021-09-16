@@ -1,2 +1,2 @@
-# KickstartetXLSAnalysis
+# KickstarterXLSAnalysis
 Analysis of Kickstarter data
